@@ -33,7 +33,7 @@
 		<module>spring-cloud-study-jms</module>
 		<module>spring-cloud-study-mybatisplus</module>
 		<module>spring-cloud-study-poi</module>
-		<module>spring-cloud-study-drools</module>
+		<!--<module>spring-cloud-study-drools</module>-->
 		<module>spring-cloud-study-aop</module>
 		<module>spring-cloud-study-udp</module>
 		<module>spring-cloud-study-netty-websocket</module>
@@ -47,7 +47,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-dependencies</artifactId>
-				<version>Finchley.M9</version>
+				<version>Finchley.RELEASE</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>

@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-aop" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-configcenter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-jms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-mybatisplus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-netty-websocket" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-poi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-security-jwt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-udp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
